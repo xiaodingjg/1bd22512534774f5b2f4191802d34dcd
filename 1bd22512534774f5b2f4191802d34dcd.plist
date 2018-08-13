@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxxx/xxx.ipa</string>
+					<string>http://125.88.181.61:8089/app/1bd22512534774f5b2f4191802d34dcd/2018_08_08_22_24.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string>http://125.88.181.61:8089/app/1bd22512534774f5b2f4191802d34dcd/icon-512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string>http://125.88.181.61:8089/app/1bd22512534774f5b2f4191802d34dcd/icon-72.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxxx.demo</string>
+				<string>com.bojin.com</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.4.276</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>XXXX App download</string>
+				<string>博金国际下载</string>
 			</dict>
 		</dict>
 	</array>
